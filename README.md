@@ -59,7 +59,7 @@ Order_Summary/
 
 ## 📤 Also Available On
 
-- [Kaggle](https://www.kaggle.com/datasets/titan077/order-summary-power-bi-sql-excel-project) 
+- [Kaggle](https://www.kaggle.com/datasets/titan077/order-summary-project-using-power-bi-sql-and-excel) 
 - [Notion](https://suave-violet-9da.notion.site/Order-Summary-Project-2357c3b95f90801b929de28a1aaaf969?source=copy_link)
 - [GitHub](https://github.com/ShadowRanger100/Order_Summary)
 
